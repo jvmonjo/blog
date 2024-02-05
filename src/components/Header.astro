@@ -65,11 +65,11 @@ const { activeNav } = Astro.props;
               Etiquetes
             </a>
           </li>
-          <li>
+          <!-- <li>
             <a href="/about/" class={activeNav === "about" ? "active" : ""}>
               Qui sóc
             </a>
-          </li>
+          </li> -->
           <li>
             <LinkButton
               href="/search/"
@@ -78,6 +78,7 @@ const { activeNav } = Astro.props;
               } flex`}
               ariaLabel="search"
               title="Search"
+              target="_self"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
