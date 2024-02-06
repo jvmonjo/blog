@@ -82,7 +82,7 @@ const formattedDate = new Date(pubDatetime).toLocaleDateString("ca-ES", {
         <div class="col-span-1">
           <Image src={ogUrl} alt={title} width={200} height={400} />
         </div>
-        <div class="col-span-2">
+        <div class="col-span-3">
           <ul>
             <li><strong>Tipus:</strong> {type}</li>
             <li><strong>Editor:</strong> {publisher}</li>
@@ -93,7 +93,7 @@ const formattedDate = new Date(pubDatetime).toLocaleDateString("ca-ES", {
               <strong>Etiquetes:</strong>
               {
                 tags.map(tag => (
-                  <span class="px-2 py-1 text-xs mr-2 font-medium bg-skin-accent text-skin-base rounded-md">
+                  <span class="px-2 py-1 text-xs mr-2 font-medium bg-skin-accent text-white rounded-md">
                     {tag}
                   </span>
                 ))

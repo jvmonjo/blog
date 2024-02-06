@@ -13,7 +13,7 @@ export default function Pubcard({
   frontmatter,
   secHeading = true,
 }: Props) {
-  const { title, pubDatetime, modDatetime, ogImage, tags } = frontmatter;
+  const { title, pubDatetime, modDatetime, ogImage, tags, type } = frontmatter;
 
   const headerProps = {
     style: { viewTransitionName: slugifyStr(title) },
@@ -27,6 +27,9 @@ export default function Pubcard({
           <img src={`${ogImage}`} alt={title} width={200} height={400} />
         </div>
         <div className="col-span-3">
+          <span className="px-2 py-1 text-xs font-medium bg-skin-accent text-skin-base rounded-md">
+            {type}
+          </span>
           <a
             href={href}
             className="inline-block text-lg font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
@@ -43,7 +46,7 @@ export default function Pubcard({
             {tags.map(tag => (
               <span
                 key={tag}
-                className="px-2 py-1 text-xs font-medium bg-skin-accent text-skin-base rounded-md"
+                className="px-2 py-1 text-xs font-medium text-skin-accent rounded-md"
               >
                 {tag}
               </span>
