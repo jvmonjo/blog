@@ -1,5 +1,6 @@
 ---
 pubDatetime: 2021-11-30T05:35:07.322Z
+modDatetime:
 title: Cutefish, a new desktop environment I might enjoy
 description: There's a new kid on the block. A new DE based on KDE heavily inspired by MacOS
 tags:
@@ -8,7 +9,7 @@ tags:
 author: Josep Monjo
 ---
 
-**UPDATE 2023-11-9:** This project seems to be discontinued
+**UPDATE 2023-11-9:** As per the latest news, this project seems to be discontinued
 
 There's a new kid on the block. A new DE based on KDE and heavily inspired by MacOS, [Cutefish](https://en.cutefishos.com/). For the first time in a while I have found myself reconsidering leaving Gnome as my main DE and make the switch to a KDE based one.
 
