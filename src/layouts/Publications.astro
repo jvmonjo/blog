@@ -5,25 +5,25 @@ import Main from "@layouts/Main.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
 import Pagination from "@components/Pagination.astro";
-import Card from "@components/Card";
+import Pubcard from "@components/Pubcard";
 import { SITE } from "@config";
 
 export interface Props {
   currentPage: number;
   totalPages: number;
-  paginatedPosts: CollectionEntry<"blog">[];
+  paginatedPosts: CollectionEntry<"publication">[];
 }
 
 const { currentPage, totalPages, paginatedPosts } = Astro.props;
 ---
 
-<Layout title={`Blog | ${SITE.title}`}>
-  <Header activeNav="posts" />
-  <Main pageTitle="Blog" pageDesc="Tots els meus articles del blog.">
+<Layout title={`Publicacions | ${SITE.title}`}>
+  <Header activeNav="publications" />
+  <Main pageTitle="Publicacions" pageDesc="Els meus treballs de recerca.">
     <ul>
       {
         paginatedPosts.map(({ data, slug }) => (
-          <Card href={`/posts/${slug}/`} frontmatter={data} />
+          <Pubcard href={`/publications/${slug}/`} frontmatter={data} />
         ))
       }
     </ul>
