@@ -70,7 +70,9 @@ const formattedDate = new Date(pubDatetime).toLocaleDateString("ca-ES", {
     </button>
   </div>
   <main id="main-content">
-    <h1 transition:name={slugifyStr(title)} class="post-title">{title}</h1>
+    <h1 transition:name={slugifyStr(title)} class="post-title text-balance">
+      {title}
+    </h1>
     <Datetime
       pubDatetime={pubDatetime}
       modDatetime={modDatetime}
@@ -93,7 +95,7 @@ const formattedDate = new Date(pubDatetime).toLocaleDateString("ca-ES", {
               <strong>Etiquetes:</strong>
               {
                 tags.map(tag => (
-                  <span class="px-2 py-1 text-xs mr-2 font-medium bg-skin-accent text-white rounded-md">
+                  <span class="px-2 py-1 text-xs mr-2 font-medium text-nowrap bg-skin-accent text-white rounded-md">
                     {tag}
                   </span>
                 ))

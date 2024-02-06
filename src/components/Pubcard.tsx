@@ -17,11 +17,12 @@ export default function Pubcard({
 
   const headerProps = {
     style: { viewTransitionName: slugifyStr(title) },
-    className: "text-lg font-medium decoration-dashed hover:underline",
+    className:
+      "text-lg font-medium decoration-dashed hover:underline text-balance",
   };
 
   return (
-    <li className="my-6">
+    <li className="mb-12">
       <div className="grid sm:grid-cols-4 gap-3 grid-cols-1">
         <div className="col-span-1">
           <img src={`${ogImage}`} alt={title} width={200} height={400} />
@@ -41,12 +42,12 @@ export default function Pubcard({
             )}
           </a>
           <Datetime pubDatetime={pubDatetime} modDatetime={modDatetime} />
-          <br />
-          <div className="flex flex-wrap gap-2">
+
+          <div className="flex mt-2 flex-wrap gap-2">
             {tags.map(tag => (
               <span
                 key={tag}
-                className="px-2 py-1 text-xs font-medium text-skin-accent rounded-md"
+                className="px-2 py-1 text-xs text-nowrap font-medium text-skin-accent rounded-md"
               >
                 {tag}
               </span>
