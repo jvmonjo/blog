@@ -22,7 +22,7 @@ export default function Pubcard({
 
   return (
     <li className="my-6">
-      <div className="grid grid-cols-4 gap-2">
+      <div className="grid sm:grid-cols-4 gap-3 grid-cols-1">
         <div className="col-span-1">
           <img src={`${ogImage}`} alt={title} width={200} height={400} />
         </div>
