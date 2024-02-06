@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://monjo.eu/", // replace this with your deployed domain
   author: "Josep Monjo",
   desc: "Desenvolupador de webs i apps, geek i apassionat de la tecnologia (i de les Ciències Socials)",
-  title: "josep monjo",
+  title: "monjo.eu 🇪🇺",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
