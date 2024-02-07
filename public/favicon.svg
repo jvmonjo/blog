@@ -33,25 +33,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1136"
-     inkscape:window-height="569"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
      id="namedview17"
      showgrid="false"
      inkscape:zoom="3.2777778"
-     inkscape:cx="1.4883108"
+     inkscape:cx="-54.799824"
      inkscape:cy="-4.0388511"
-     inkscape:window-x="680"
-     inkscape:window-y="373"
-     inkscape:window-maximized="0"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
-  <path
-     fill="#000"
-     d="M22.25 4h-8.5a1 1 0 0 0-.96.73l-5.54 19.4a.5.5 0 0 0 .62.62l5.05-1.44a2 2 0 0 0 1.38-1.4l3.22-11.66a.5.5 0 0 1 .96 0l3.22 11.67a2 2 0 0 0 1.38 1.39l5.05 1.44a.5.5 0 0 0 .62-.62l-5.54-19.4a1 1 0 0 0-.96-.73Z"
-     id="path4" />
-  <path
-     fill="url(#gradient)"
-     d="M18 28a7.63 7.63 0 0 1-5-2c-1.4 2.1-.35 4.35.6 5.55.14.17.41.07.47-.15.44-1.8 2.93-1.22 2.93.6 0 2.28.87 3.4 1.72 3.81.34.16.59-.2.49-.56-.31-1.05-.29-2.46 1.29-3.25 3-1.5 3.17-4.83 2.5-6-.67.67-2.6 2-5 2Z"
-     id="path6" />
   <defs
      id="defs8">
     <linearGradient
@@ -75,16 +67,13 @@
      id="style15">
     @media (prefers-color-scheme:dark){:root{filter:invert(100%)}}
   </style>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:43.55363083px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b4005c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="-2.0296366"
-     y="31.98299"
-     id="text4148"
-     sodipodi:linespacing="125%"
-     transform="scale(0.93601017,1.0683645)"><tspan
-       sodipodi:role="line"
-       id="tspan4150"
-       x="-2.0296366"
-       y="31.98299">m</tspan></text>
+  <g
+     transform="scale(0.93601014,1.0683645)"
+     style="font-style:normal;font-weight:normal;font-size:43.55363083px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fc005c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     id="text4148">
+    <path
+       d="m 36.894858,30.840742 -3.998087,0 0,-13.525444 q 0,-1.531182 -0.148865,-2.956032 -0.127599,-1.424851 -0.574193,-2.275507 -0.489128,-0.914457 -1.403584,-1.382318 -0.914456,-0.467861 -2.637036,-0.467861 -1.680048,0 -3.360095,0.850657 -1.680047,0.82939 -3.360095,2.126642 0.0638,0.489128 0.106333,1.148387 0.04253,0.637992 0.04253,1.275985 l 0,15.205491 -3.998087,0 0,-13.525444 q 0,-1.573715 -0.148865,-2.977299 -0.127598,-1.42485 -0.574193,-2.275507 -0.489128,-0.914456 -1.403584,-1.361051 -0.914456,-0.467861 -2.637036,-0.467861 -1.637515,0 -3.2962955,0.808124 -1.6375144,0.808124 -3.2750288,2.062843 l 0,17.736195 -3.9980872,0 0,-23.7545925 3.9980872,0 0,2.6370363 Q 8.1001237,8.170737 9.9503024,7.2988137 11.821747,6.4268905 13.927123,6.4268905 q 2.424372,0 4.104419,1.0207882 1.701314,1.0207882 2.530705,2.8284343 2.424372,-2.0415767 4.423415,-2.9347664 1.999044,-0.9144561 4.274551,-0.9144561 3.913021,0 5.7632,2.3818391 1.871445,2.3605724 1.871445,6.6138574 l 0,15.418155 z"
+       style=""
+       id="path4154" />
+  </g>
 </svg>
