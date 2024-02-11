@@ -1,79 +1,62 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   fill="none"
-   viewBox="0 0 36 36"
-   id="svg2"
+   width="210mm"
+   height="210mm"
+   viewBox="0 0 210 210"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="favicon.svg">
-  <metadata
-     id="metadata19">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="m.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
+     id="namedview7"
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     id="namedview17"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.2777778"
-     inkscape:cx="-54.799824"
-     inkscape:cy="-4.0388511"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:zoom="0.460655"
+     inkscape:cx="-24.964453"
+     inkscape:cy="542.70549"
+     inkscape:window-width="1463"
+     inkscape:window-height="749"
+     inkscape:window-x="122"
+     inkscape:window-y="100"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <defs
-     id="defs8">
-    <linearGradient
-       id="gradient"
-       x1="16"
-       x2="16"
-       y1="32"
-       y2="24"
-       gradientUnits="userSpaceOnUse">
-      <stop
-         stop-color="#000"
-         id="stop11" />
-      <stop
-         offset="1"
-         stop-color="#000"
-         stop-opacity="0"
-         id="stop13" />
-    </linearGradient>
-  </defs>
-  <style
-     id="style15">
-    @media (prefers-color-scheme:dark){:root{filter:invert(100%)}}
-  </style>
+     id="defs2" />
   <g
-     transform="scale(0.93601014,1.0683645)"
-     style="font-style:normal;font-weight:normal;font-size:43.55363083px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fc005c;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     id="text4148">
-    <path
-       d="m 36.894858,30.840742 -3.998087,0 0,-13.525444 q 0,-1.531182 -0.148865,-2.956032 -0.127599,-1.424851 -0.574193,-2.275507 -0.489128,-0.914457 -1.403584,-1.382318 -0.914456,-0.467861 -2.637036,-0.467861 -1.680048,0 -3.360095,0.850657 -1.680047,0.82939 -3.360095,2.126642 0.0638,0.489128 0.106333,1.148387 0.04253,0.637992 0.04253,1.275985 l 0,15.205491 -3.998087,0 0,-13.525444 q 0,-1.573715 -0.148865,-2.977299 -0.127598,-1.42485 -0.574193,-2.275507 -0.489128,-0.914456 -1.403584,-1.361051 -0.914456,-0.467861 -2.637036,-0.467861 -1.637515,0 -3.2962955,0.808124 -1.6375144,0.808124 -3.2750288,2.062843 l 0,17.736195 -3.9980872,0 0,-23.7545925 3.9980872,0 0,2.6370363 Q 8.1001237,8.170737 9.9503024,7.2988137 11.821747,6.4268905 13.927123,6.4268905 q 2.424372,0 4.104419,1.0207882 1.701314,1.0207882 2.530705,2.8284343 2.424372,-2.0415767 4.423415,-2.9347664 1.999044,-0.9144561 4.274551,-0.9144561 3.913021,0 5.7632,2.3818391 1.871445,2.3605724 1.871445,6.6138574 l 0,15.418155 z"
-       style=""
-       id="path4154" />
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff0093;stroke-width:0.264583;fill-opacity:1"
+       id="rect111"
+       width="210"
+       height="210"
+       x="-0.085257053"
+       y="0.41991377" />
+    <text
+       xml:space="preserve"
+       style="font-size:246.779px;fill:#ffffff;fill-opacity:1;stroke-width:20.5649"
+       x="-36.91251"
+       y="227.03899"
+       id="text1833"
+       transform="rotate(-12.787162)"><tspan
+         sodipodi:role="line"
+         id="tspan1831"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:20.5649"
+         x="-36.91251"
+         y="227.03899">M</tspan></text>
   </g>
 </svg>
