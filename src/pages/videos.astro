@@ -1,0 +1,13 @@
+---
+export const prerender = false;
+
+const SECRET_PASSWORD = import.meta.env.SECRET_PASSWORD;
+
+const password = Astro.url.searchParams.get("password");
+
+const authenticated = password == SECRET_PASSWORD;
+
+if (!authenticated) return Astro.redirect("/404");
+---
+
+Secret content goes here.
